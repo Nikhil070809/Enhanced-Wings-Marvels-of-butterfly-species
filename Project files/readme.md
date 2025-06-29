@@ -1,1 +1,1 @@
-for store the project details
+Project Executable Files
